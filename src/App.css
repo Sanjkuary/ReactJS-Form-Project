@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body {
+  background-color: #bde0fe;
+  
+}
+
+h1 {
+  margin: 0;
+}
+h4 {
+  color: darkorchid;
+}
+
+.header {
+  background-color: #2f3e46;
+  color: white;
+  padding: 14px;
+  width: 100%;
+}
+
+.form {
+  margin-top: 20px;
+}
+.data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  width: 100%;
+}
+.data_show {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+  width: 80%;
+  padding: 0px 9px 0px 9px ;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
